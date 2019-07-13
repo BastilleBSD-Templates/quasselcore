@@ -1,7 +1,7 @@
 # quasselcore
 BastilleTemplate to create a Quassel Core Headless IRC Client Jail
 
- STATUS: Testing
+ STATUS: Complete and Tested - BCM 07/12/2019 
 
 Quassel Core allows you configure an irc server running quassel core that keeps all of your 
 connections to your IRC networks live, and you will never miss another message.  It also allows 
