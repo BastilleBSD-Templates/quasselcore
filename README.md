@@ -13,8 +13,6 @@ Find the IP address of the jail, then find out you external live IP address on t
 Open Quassel Client and work through the questions to set the IP addresses and IRC networks, etc.
 Once done click Save and Connect to connect the core to IRC.
 
-The template creates a user named quassel with no password set. Log in and immediately set the 
-password for the quassel user.
 
 
 Below is the text output from installing this on freebsd:
