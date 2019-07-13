@@ -1,0 +1,5 @@
+pw useradd -m -d /usr/home/quassel -s /usr/local/bin/sh quassel
+
+
+
+
